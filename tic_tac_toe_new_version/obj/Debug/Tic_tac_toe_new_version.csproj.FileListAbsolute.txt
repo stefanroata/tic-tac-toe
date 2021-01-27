@@ -1,0 +1,11 @@
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\bin\Debug\Tic_tac_toe_new_version.exe.config
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\bin\Debug\Tic_tac_toe_new_version.exe
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\bin\Debug\Tic_tac_toe_new_version.pdb
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\obj\Debug\Tic_tac_toe_new_version.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\obj\Debug\Tic_tac_toe_new_version.Form1.resources
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\obj\Debug\Tic_tac_toe_new_version.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\obj\Debug\Tic_tac_toe_new_version.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\obj\Debug\Tic_tac_toe_new_version.exe
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\obj\Debug\Tic_tac_toe_new_version.pdb
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\obj\Debug\Tic_tac_toe_new_version.Form2.resources
+C:\Users\Stefan\Desktop\Tic_tac_toe_new_version\Tic_tac_toe_new_version\obj\Debug\Tic_tac_toe_new_version.Form3.resources
